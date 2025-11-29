@@ -1,0 +1,12 @@
+div > p {
+  color: azure;
+  background-color: aquamarine;
+}
+.loichuc p {
+  color: blue;
+  font-size: 10px;
+}
+block p {
+  color:rgb(114, 205, 205);
+  background-color: brown;
+}
